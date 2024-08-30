@@ -11,9 +11,7 @@ Once inside the container, set `OPENAI_API_KEY`:
 export OPENAI_API_KEY="<api_key>"
 ```
 
-Then you're all set to use `mods`
-
-Try it out by running:
+Then you're all set to use `mods`. Try it out by running:
 ```shell
 mods
 ```
